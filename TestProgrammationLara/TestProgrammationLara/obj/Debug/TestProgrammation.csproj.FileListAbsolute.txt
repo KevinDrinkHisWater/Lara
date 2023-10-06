@@ -1,0 +1,8 @@
+C:\Users\Hense\OneDrive\Bureau\TestProgrammationLara\TestProgrammationLara\bin\Debug\TestProgrammation.exe.config
+C:\Users\Hense\OneDrive\Bureau\TestProgrammationLara\TestProgrammationLara\bin\Debug\TestProgrammation.exe
+C:\Users\Hense\OneDrive\Bureau\TestProgrammationLara\TestProgrammationLara\bin\Debug\TestProgrammation.pdb
+C:\Users\Hense\OneDrive\Bureau\TestProgrammationLara\TestProgrammationLara\obj\Debug\TestProgrammation.csproj.AssemblyReference.cache
+C:\Users\Hense\OneDrive\Bureau\TestProgrammationLara\TestProgrammationLara\obj\Debug\TestProgrammation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hense\OneDrive\Bureau\TestProgrammationLara\TestProgrammationLara\obj\Debug\TestProgrammation.csproj.CoreCompileInputs.cache
+C:\Users\Hense\OneDrive\Bureau\TestProgrammationLara\TestProgrammationLara\obj\Debug\TestProgrammation.exe
+C:\Users\Hense\OneDrive\Bureau\TestProgrammationLara\TestProgrammationLara\obj\Debug\TestProgrammation.pdb

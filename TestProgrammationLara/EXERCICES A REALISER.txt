@@ -1,0 +1,22 @@
+Procédure
+1. Ouvrir la solution "TestProgrammation.sln"
+2. Ouvrir la classe "Program.cs"
+3. Compléter les exercices suivants
+
+Exercice 1
+La solution contient une classe UserDataProvider. Cette classe contient du code non fonctionnel et peu optimisé.
+Vous devez corriger les problèmes et rendre le code plus optimal.
+
+Exercice 2
+Vous devez compléter le code d'un générateur de mot de passe.
+La longueur du mot de passe est variable et permet, ou non, les majuscules.
+Les caractères permis sont les lettres, les chiffres, et les suivants: ?$%_-;.
+Attention! Deux caractères identiques ne peuvent pas se suivre!
+
+Exercice 3
+Mise en situation:
+Vous devez récupérer les entrées de la table Users. La table contient un million d'entrées.
+Deux options s'offrent à vous pour récupérer le nom d'un utilisateur:
+1.	SELECT CONCAT(FirstName, ' ', LastName) FROM Users
+2.	SELECT FirstName, LastName FROM Users (et concaténer les données côté serveur ou client)
+Quelle sera votre solution? Expliquez votre réponse.
